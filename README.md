@@ -6,6 +6,8 @@ This project simulates core detection engineering workflows used in enterprise S
 
 ---
 
+<img width="1272" height="1663" alt="screencapture-localhost-8501-2026-02-25-18_12_15" src="https://github.com/user-attachments/assets/9354efc8-872f-4ac1-b1a2-53cc427113a4" />
+
 ## Project Objective
 
 To design and implement a web-based detection engine that:
@@ -194,4 +196,5 @@ It demonstrates detection engineering fundamentals in a controlled lab environme
 WEBSITE DEMO : 
 Blue Team / SOC Simulation
 NAME : SHEBIN K BABU (DARKLOVERBOI)
+
 CONTACT : KSHEBIN86@GMAIL.COM
